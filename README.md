@@ -11,11 +11,14 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
+| Latest Nightly Release | Upstream URL |
 | :---: | :---: |
 | [Click here](https://github.com/pkgforge-dev/PCExhumed-AppImage/releases/latest) | [Click here](https://github.com/NBlood/NBlood) |
 
 </div>
+
+## ⚠️ Game assets go inside `~/.config/pcexhumed` ⚠️
+## ⚠️ To use soundfonts copy *.sf2 to same folder or `ln -s /usr/share/soundfonts/sfname.sf2 ~/.config/pcexhumed/sfname.sf2` ⚠️
 
 ---
 
