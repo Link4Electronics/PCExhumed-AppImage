@@ -4,5 +4,6 @@ Name=PCExhumed
 GenericName=Exhumed port based on EDuke32
 Icon=pcexhumed
 Exec=pcexhumed %F
+StartupWMClass=Pcexhumed
 Terminal=false
 Categories=Game;ActionGame;
